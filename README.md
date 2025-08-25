@@ -11,8 +11,8 @@
 
 >>> py nsdset/nsdset.py
 #
-# Example:
-
+# Example
+#
 # Number: 18
 # Difference: 3
 # Seperation: 3
