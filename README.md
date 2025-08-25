@@ -31,3 +31,10 @@
 ... 43.0
 ... 44.0
 ... 45.0
+
+# Installation
+>>> git clone https://github.com/tomadar/nsdset
+
+# Usage
+
+>>> py nsdset/nsdset.py
