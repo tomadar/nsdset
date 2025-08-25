@@ -4,15 +4,15 @@
  By Tobi Martins; Martinga Formula
 #
 # Installation
-#
+
 >>> git clone https://github.com/tomadar/nsdset
 
 # Usage
-#
+
 >>> py nsdset/nsdset.py
 #
 # Example:
-#
+
 # Number: 18
 # Difference: 3
 # Seperation: 3
