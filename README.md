@@ -3,6 +3,14 @@
  Classical Division Differences table;
  By Tobi Martins; Martinga Formula
 #
+# Installation
+#
+>>> git clone https://github.com/tomadar/nsdset
+
+# Usage
+#
+>>> py nsdset/nsdset.py
+#
 # Example:
 #
 # Number: 18
@@ -32,9 +40,3 @@
 ... 44.0
 ... 45.0
 
-# Installation
->>> git clone https://github.com/tomadar/nsdset
-
-# Usage
-
->>> py nsdset/nsdset.py
