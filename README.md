@@ -1,7 +1,7 @@
 # nsdset
 # Number, Seperation and Differences set.
  Classical Division Differences table;
- By Tobi Martins; Martinga Formula
+ 	By Tobi Martins; Martinga Formula
 #
 # Installation
 
