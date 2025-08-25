@@ -1,5 +1,5 @@
 import os
-Import time
+import time
 
 def set():
 	try:
