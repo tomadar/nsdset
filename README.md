@@ -9,7 +9,7 @@
 #
 # Usage
 
-$ py nsd.py #change mode
+$ py */nsdset/nsd.py #change mode
 #
 $ nsdset  
 #
