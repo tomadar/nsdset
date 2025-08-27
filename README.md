@@ -9,8 +9,8 @@
 #
 # Usage
 
->>> py nsd.py (This will change the mode :on)
->>> nsdset (call to start) 
+$ py nsd.py (This will change the mode)\n
+$ nsdset (call to start) 
 #
 # Example
 #
