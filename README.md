@@ -9,7 +9,8 @@
 #
 # Usage
 
->>> py nsdset/nsdset.py
+>>> py nsd.py (This will change the mode :on)
+>>> nsdset (call to start) 
 #
 # Example
 #
