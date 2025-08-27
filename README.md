@@ -9,9 +9,9 @@
 #
 # Usage
 
-$ py nsd.py (This will change the mode)
+$ py nsd.py #change mode
 #
-$ nsdset (call to start) 
+$ nsdset  
 #
 # Example
 #
