@@ -10,7 +10,7 @@
 # Usage
 
 $ py nsd.py (This will change the mode)\n
-$ nsdset (call to start) 
+#$ nsdset (call to start) 
 #
 # Example
 #
