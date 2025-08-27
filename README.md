@@ -8,10 +8,8 @@
 >>> git clone https://github.com/tomadar/nsdset
 #
 # Usage
-
-$ py nsdset/nsd.py #change mode
 #
-$ nsdset  
+$ py nsdset/nsdset.py  
 #
 # Example
 #
